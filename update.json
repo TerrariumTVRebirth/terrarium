@@ -1,8 +1,8 @@
 {
-  "versionName": "Update 2.0.2",
-  "versionCode": "4",
+  "versionName": "Update 2.0.3",
+  "versionCode": "5",
   "url": "https://github.com/TerrariumTVRebirth/terrarium/blob/main/terrariumtv.apk?raw=true",
   "release": [
-    "- First Release!\r\n\r\n- Download Link: https://tinyurl.com/r3845pcr"
+    "- Fix issue with some users not getting Real Debrid links\r\n\r\n- Fix issue with free link episodes!\r\n\r\n- Download Link: https://tinyurl.com/r3845pcr"
   ]
 },

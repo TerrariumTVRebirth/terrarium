@@ -1,8 +1,8 @@
 {
-  "versionName": "Update 2.0.4",
-  "versionCode": "6",
+  "versionName": "Update 2.0.5",
+  "versionCode": "7",
   "url": "https://github.com/TerrariumTVRebirth/terrarium/blob/main/terrariumtv.apk?raw=true",
   "release": [
-    "- Remove Premium, Every feature is now available to the public\r\n\r\n- New backend servers to maxmium users!\r\n\r\n- Download Link: https://tinyurl.com/r3845pcr"
+    "- Add new js scripts to scrapers\r\n\r\n- New backend servers to maxmium users!\r\n\r\n- Download Link: https://tinyurl.com/r3845pcr"
   ]
 },
